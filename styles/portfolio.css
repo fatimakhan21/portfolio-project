@@ -44,7 +44,7 @@ p {
    color: #272142;
 }
 .content-container {
-    padding:168px 20px
+    padding:108px 20px
 }
 .content h1 {
     font-size: 64px;
@@ -91,7 +91,16 @@ p {
     padding:15px 30px;
 
 }
+.logo {
+    max-width: 150px ;
 
+}
+.active {
+    color: var(--branding-color) !important ;
+}
+.nav-item {
+    padding: 0 20px;
+}
 .project-description {
     padding:120px 60px;
 }
